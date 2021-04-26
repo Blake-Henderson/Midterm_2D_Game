@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Win
+  - Projectile
+  - Loot
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -41,4 +44,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 4085119245
+    locked: 0
+  - name: Loot
+    uniqueID: 3217885297
+    locked: 0
+  - name: Enemies
+    uniqueID: 4147707821
+    locked: 0
+  - name: Projectiles
+    uniqueID: 2613029375
     locked: 0
